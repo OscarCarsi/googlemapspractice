@@ -1,0 +1,7 @@
+C:\dsw\act\googlemaps\publish\googlemaps.exe
+C:\dsw\act\googlemaps\publish\appsettings.Development.json
+C:\dsw\act\googlemaps\publish\appsettings.json
+C:\dsw\act\googlemaps\publish\googlemaps.dll
+C:\dsw\act\googlemaps\publish\googlemaps.deps.json
+C:\dsw\act\googlemaps\publish\googlemaps.runtimeconfig.json
+C:\dsw\act\googlemaps\publish\googlemaps.pdb

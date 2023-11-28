@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XF0qY6+2VFmRiC4VHSJknmlb73H+BMQWvP/hFsW5RziwdmwCEje2j6Z9/UXHNIGuUDp9dJF/jTx+SWt2naYUNw==",
+  "success": true,
+  "projectFilePath": "C:\\dsw\\act\\googlemaps\\googlemaps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.25\\microsoft.netcore.app.host.win-x86.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
